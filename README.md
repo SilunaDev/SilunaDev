@@ -11,7 +11,7 @@
 
 # 💫 FrameWorks:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-<img height="10" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img height="10" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img height="30" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 
 # 📊 GitHub Stats:
